@@ -77,20 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.875">
+            <state vertical-scroll-proportion="0.5991441">
               <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typography.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="typography.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/typography.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5349501">
+            <state vertical-scroll-proportion="-15.625">
               <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding />
             </state>
@@ -871,18 +871,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/header.scss">
+    <entry file="file://$PROJECT_DIR$/_sass/typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/typography.scss">
+    <entry file="file://$PROJECT_DIR$/_sass/header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5349501">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.5991441">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding />
         </state>
       </provider>
