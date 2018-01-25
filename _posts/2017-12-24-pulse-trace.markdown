@@ -3,7 +3,7 @@ layout: work-single
 title:  "Pulse Trace"
 permalink: /pulse-trace/
 image: /assets/img/pulse/beat.gif
-categories: [physical]
+categories: [digital]
 year: 2017
 contributors: [Can Yanardag, Keyur Jain, Yee Mun Ooi, Radhika Agarwal]
 thanks: [Matt Cottam, Mikhail Mansion]
