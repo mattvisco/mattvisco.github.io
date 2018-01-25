@@ -27,11 +27,12 @@
     left: 0;
     transition: top 0.4s ease-in-out;
     font-size: 40px;
+    //padding: 10px 0;
   }
 
   &__up {
     @media (max-width: $mobile-bp) {
-      top: -220px;
+      top: -240px;
     }
   }
 
@@ -54,6 +55,7 @@
       text-align: center;
       margin-top: 40px;
       width: 300px;
+      padding: 10px 0;
     }
   }
 
