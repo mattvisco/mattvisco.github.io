@@ -21,5 +21,6 @@
 }
 
 #map-copy {
-  visibility: hidden;
+  visibility: hidden;transform: scaleX(-1);
+  clip: rect(0px, 357px, 658px, 337px);
 }
