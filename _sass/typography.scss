@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "MaisonNeue-book";
+  src: url("/assets/fonts/MaisonNeue/MaisonNeue-Book.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "MaisonNeue-light";
+  src: url("/assets/fonts/MaisonNeue/MaisonNeue-Light.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "MaisonMono-Regular";
+  src: url("/assets/fonts/MaisonMono/MaisonMono-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "MaisonMono-light";
+  src: url("/assets/fonts/MaisonMono/MaisonMono-Light.ttf") format("ttf");
+}
+
+a {
+  color: inherit;
+
+  &:active, &:visited, &:focus, &:hover {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+p {
+  margin: 0;
+}
