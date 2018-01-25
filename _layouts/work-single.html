@@ -1,0 +1,54 @@
+---
+layout: default
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class="work-single">
+    <div class="work-single__wrapper">
+        <div class="work-single__container">
+            <div class="work-single__header">
+                <div class="work-single__title">{{ page.title | escape }}</div>
+                <div class="work-single__desc">
+                    {% for category in page.categories %}
+                    {{ category }}{% if forloop.index < forloop.length %} /
+                    {% else %},
+                    {% endif %}
+                    {% endfor %}{{ page.year }}
+                </div>
+
+                {% if page.contributors %}
+                <div class="work-single__extras-container">
+                    <span class="work-single__extras">Contributors</span>
+                    <div class="work-single__extras-elements-container">
+                        {% for contributor in page.contributors %}
+                            <div class="work-single__extra">
+                            {{ contributor }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if page.thanks %}
+                <div class="work-single__extras-container">
+                    <span class="work-single__extras">Special Thanks</span>
+                    <div class="work-single__extras-elements-container">
+                        {% for thanks in page.thanks %}
+                        <div class="work-single__extra">
+                            {{ thanks }}
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="work-single__header-img">
+                <img src="{{ page.headerimg }}">
+            </div>
+        </div>
+
+
+        {{ content }}
+    </div>
+</div>

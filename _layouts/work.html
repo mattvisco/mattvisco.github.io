@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="work">
+
+    <div class="work__header">
+        <span class="work__filter work__filter-active" id="all">all</span>
+        <span class="work__slash">/</span>
+        <span class="work__filter" id="physical">physical</span>
+        <span class="work__slash">/</span>
+        <span class="work__filter" id="digital">digital</span>
+    </div>
+
+    <div class="work__container">
+        {% if site.posts.size > 0 %}
+        {% for post in site.posts %}
+
+            <div class="work__container-element{% for category in post.categories %} work__{{ category }}{% endfor %}">
+                <a class="work__element-wrapper" href="{{ post.url }}">
+                    <img class="work__element-img" src="{{ post.image }}">
+                    <div class="work__element-title">{{ post.title }}</div>
+                    <div class="work__element-desc">
+                    {% for category in post.categories %}
+                        {{ category }}{% if forloop.index < forloop.length %} /
+                        {% else %},
+                        {% endif %}
+                    {% endfor %}{{ post.year }}
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+        {% endif %}
+    </div>
+</div>

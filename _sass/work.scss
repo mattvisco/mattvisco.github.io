@@ -1,0 +1,116 @@
+.work {
+  width: 100%;
+  padding-left: $header-height;
+  box-sizing: border-box;
+
+  @media (max-width: $mobile-bp) {
+    padding-left: 0;
+  }
+
+  &__header {
+    position: fixed;
+    text-align: center;
+    padding-top: 30px;
+    width: 100%;
+    font-family: MaisonNeue-book;
+    font-size: 22px;
+
+    @media (max-width: $mobile-bp) {
+      display: none;
+    }
+  }
+
+  &__filter {
+    cursor: pointer;
+
+    &:hover {
+      color: $link-green;
+    }
+
+    &:active {
+      color: #2A9647;
+    }
+  }
+
+  &__filter-active {
+    color: $link-green;
+  }
+
+  &__slash {
+    padding: 0 13px;
+  }
+
+  &__container {
+    padding-top: 90px;
+    padding-bottom: 20px;
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-align: left;
+    @media (max-width: $mobile-bp) {
+      padding-top: $mobile-padding-top;
+    }
+  }
+
+  &__container-element {
+    width: 33.3333%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding-bottom: 20px;
+    //text-align: center;
+
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+    }
+  }
+
+  &__element-wrapper {
+    width: 60%;
+    @media (max-width: $mobile-bp) {
+      width: 90%;
+    }
+
+    &:hover {
+      .work__element-img {
+        opacity: .4;
+      }
+
+      .work__element-title {
+        color: $link-green;
+      }
+    }
+
+    &:active {
+      .work__element-img {
+        opacity: 1;
+      }
+
+      .work__element-title {
+        color: $link-green-active;
+      }
+    }
+  }
+
+  &__element-img {
+    width: 100%;
+  }
+
+  &__element-title {
+    padding-top: 6px;
+    font-family: MaisonNeue-book;
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  &__element-desc {
+    font-family: MaisonMono-light;
+    font-size: 13px;
+    color: #999999;
+  }
+
+}

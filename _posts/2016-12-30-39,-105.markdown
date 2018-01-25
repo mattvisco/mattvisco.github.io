@@ -1,0 +1,116 @@
+---
+layout: work-single
+title:  "39°N, -105°W"
+permalink: /39,-105/
+image: /assets/img/39,-105/thumb.gif
+categories: [digital]
+year: 2016
+headerimg: /assets/img/39,-105/header.jpg
+thanks: [Zach Lieberman, Taeyoon Choi]
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class='work-single__text-holder'>
+<p>Every breath is a step in time, as we breathe our memories blur and present becomes the past. It is our breath that drives us to capture moments, our breath reminds us of this ever present motion that we attempt to fight by holding onto frames of time. It is also breath that can allow for deep reflection, by paying attention to our breath our memories can come back into focus — we can gain some control over time.</p>
+<p>39°N, -105°W attempts to use breath as a lens to explore the past. Each image in this piece is composed by averaging the images taken during a specific trip into the backcountry. These composites represent imagery more akin to memory — faint and ghostly representations of color, texture, & figure. As you watch these composites breath peels through them and reveals the images that make the composition. It is breath that allows for these moments to come back into focus as it was breath that directed the capture of them.</p>
+<p class='no-pad'><a href='https://github.com/mattvisco/39N-105W'>Download the code and try for yourself.</a></p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Please enjoy 39°N, -105°W</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/181241388' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Shot at Iva Bell Hot Springs, Ca. <br>37°N, -121°W.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/3.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Shot at Lost Coast, Ca. <br>40°N, -124°W</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/2.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Shot at Ostrander Ski Hut, Ca. <br>37°N, -119°W</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/4.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Shot in Bavarian Alps, Germany. <br>47°N, 10°W</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/5.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">39°N, -105°W was exhibited at SFPC's Summer 2016 Showcase.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/6.jpg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    How it Works
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+<p>39°N, -105°W was built in openFrameworks during a 10-week program at <a href='http://sfpc.io/' target='_blank'>SFPC.</a> This project was made using albums I've taken on film during different trips to the backcountry. Each image was averaged together to create the composite image seen. The title 39°N, -105°W is an average of all the geo-coordinates of the trips included in this project.</p>
+<p class='no-pad'>The application slowly transitions from trip to trip by replacing one photo in the average at a time. In an offscreen buffer a breath pattern is drawn which is used to manipulate the averaging, allowing you to see into the composite image.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">For a more in depth explanation watch this video.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/181240598' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Some early versions, tests, and failed attempts.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/test1.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/test2.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container no-pad">
+  <div class="work-single__right" >
+    <img src="/assets/img/39,-105/test3.png" alt="that good alt text" />
+  </div>
+</div>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+<script type="text/paperscript" src="{{ site.baseurl}}/assets/js/delayer.js" canvas="canvas"></script>
+<body>
+    <div class="rectangle">
+        <div id="onboarding">
+            <p id="rectangle">Drag Rectangle then Click.</p>
+        </div>
+        <div id="controls">
+            <p id="clear">Clear</p>
+            <a id="save" download="rectangles.png">Save</a>
+        </div>
+        <div class="picker-wrapper">
+            <span id="select">Select Color: <br></span>
+            <span class="color-picker" id="red">red</span> <b>/</b>
+            <span class="color-picker" id="blue">blue</span> <b>/</b>
+            <span class="color-picker" id="green">green</span> <b>/</b>
+            <span class="color-picker" id="yellow">yellow</span>
+        </div>
+        <canvas id="canvas" resize></canvas>
+    </div>
+</body>
+
+</html>

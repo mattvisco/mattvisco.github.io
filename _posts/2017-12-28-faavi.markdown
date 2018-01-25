@@ -1,0 +1,155 @@
+---
+layout: work-single
+title:  "faavi"
+permalink: /faavi/
+image: /assets/img/faavi/04faavi.jpg
+categories: [physical]
+year: 2017
+headerimg: /assets/img/faavi/06faavi-header.jpeg
+contributors: [Anoushka Garg, Esther Bretschneider]
+thanks: [Simone Rebaudengo, Josh Noble]
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class='work-single__text-holder'>
+<p>Big industry farms are an essential part of sustaining a population more than 7 billion people, yet urban farming has become a rapidly growing trend across the world. There is an increasing curiosity about where our food comes from, how it is produced, and how this can be done in an ethical and sustainable way. Automated vertical farms are emerging as a viable solution to the question of scaled urban farming, but are not accessible to individual growers. This is where faavi steps in.</p>
+<p>With its community-based marketplace, faavi allows everyday citizens to produce food at the comfort of their own home and sell it easily to those nearby. The faavi ecosystem uses artificial intelligence to analyze the price of a given crop in real time. This allows the producer to make decisions on whether to grow a crop quickly or slowly. The change in speed alters the change in quality — owners of faavi must make a decision whether to maximize profit or quality or something in between.</p>
+<p class='no-pad'><a href="http://faavi.weebly.com/" target="_blank">Sign up for faavi here</a></p>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    How it Works
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+<p><b>Choose & Install</b><br>Purchase the faavi vertical farm in a size fit for your home and follow the manual for a quick installation.</p>
+<p><b>Plan the Grow</b><br>Choose how long you want to incubate your seeds for based on faavi's predictions of quality and price.</p>
+<p><b>Start Farming</b><br>Using artificial intelligence, the farm will automate processes such as managing water supply, humidity, light, temperature and fertilizer dispension.</p>
+<p class='no-pad'><b>Harvest & Sell</b><br>When the set time elapses, harvest the crops and sell them on the faavi network using a companion app that reaches out to the local neighbourhood.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">faavi, farming reimagined.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/230465694' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">faavi begins with scanning seeds of your choice into the farm interface.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/01faavi.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Explore the cost predictions of that crop and adjust speed of growth accordingly.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/03faavi.jpg" alt="faavi interface exploring the cost predictions screen" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">When settings are selected hit the grow button and wait till harvest.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/05faavi.jpg" alt="faavi interface, seeds in the scanning slot" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">When your crop is ready, sell it on the faavi app.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/02faavi.jpg" alt="image of someone on faavi app in their car" />
+  </div>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Process
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+<p>Faavi came out of a two week course at CIID titled, Working Intelligence. For this course we were asked to speculate upon the future of an industry while considering the ever growing presence of machine learning and artificial intelligence. My group decided to look into farming, in particular urban farming.</p>
+<p>Our process began by going to farms in and around Copenhagen, Denmark to interview farmers working in the industry. We went to a total of five farms and learned a lot about different versions of small scale farming. Through these interviews we struggled to imagine how technology could play a role in urban farming. Big agriculture is riddled with technology but urban farming or small scale organic farming exists in someways to escape this technology, to allow farmers to get their hands dirty.</p>
+<p>This struggle lead us to vertical farming which fell somewhere in between. In thinking about vertical farming we wanted to imagine what it could look like if an uber type business model was applied to it. Furthermore, we explored the idea of futures contracts which exist in the farming world already. </p>
+<p>This lead us to many questions that we hoped to provoke with faavi. What if futures were placed onto this distributed farming model? Would everyday citizens maximize quality or quantity? Is this marketplace better or worse than current ecosystem? How does the market react to someone lowering quality to maximize profit? </p>
+<p class='no-pad'>In no way did we answer any of these questions but faavi was helpful to unearth them. We hope faavi helps people think a little more critically about what the future of farming may look like and possibly help avoid potential missteps.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">One farm we visited was Ostergro, a beautiful rooftop farm in Copenhagen.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/OsterGro.jpg" alt="image of a rooftop urban farm lined with vegetable beds" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Here we are talking to Farmer Paul, who runs a small farm outside of Copenhagen.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/paul.jpg" alt="The faavi team talking with a farmer by the name of paul" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Here I am investigating the fertilizer Paul uses on his farm.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/fertilizer.jpg" alt="me looking at a large mechanical fertilizer at Paul's farm" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">For faavi we made the mistake of using 4 7-segment displays...</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/7seg.jpg" alt="a rats nest of wires emerging from the faavi interface" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">At 2 a.m. we had to resoldering a lot of wiring.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/7seg-solder.jpg" alt="me attempting to squeeze the soldering iron between many wires" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The whole team was involved. Stress was high but we succeeded.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/7seg-team.jpg" alt="many hands attempting to fix a mess of wires" />
+  </div>
+</div>
+
+<div class="work-single__container no-pad">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">faavi team stays dancing. From left to right: Anoushka, Matt, Esther</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/faavi/dance.gif" alt="a short gif of the faavi team dancing" />
+  </div>
+</div>

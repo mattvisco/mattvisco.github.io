@@ -1,0 +1,91 @@
+.rectangle {
+  height: 100vh;
+  body {
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  p, a {
+    padding: 0;
+    margin: 0;
+    padding-bottom: 10px;
+    font-family: Arial;
+    font-size: 36px;
+    text-decoration: none;
+    color: black;
+  }
+
+  canvas{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+  }
+
+  #onboarding, #controls {
+    position: fixed;
+  }
+
+  #onboarding {
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  #onboarding, #onboarding p {
+    background: transparent;
+  }
+
+  #onboarding p {
+    color: red;
+  }
+
+  #line, #rectangle, #oops {
+    display: none;
+  }
+
+  #controls {
+    top: 20px;
+    left: 20px;
+  }
+
+
+  #controls p, #controls a {
+    cursor: pointer;
+
+    &:hover {
+      color: red;
+    }
+
+    &:active {
+      color: black;
+    }
+  }
+
+  .picker-wrapper {
+    position: fixed;
+    left: 20px;
+    top: 150px;
+    font-size: 20px;
+    cursor: pointer;
+
+    #select {
+      font-size: 16px;
+      color: grey;
+    }
+    #red:hover {
+      color: red;
+    }
+
+    #blue:hover {
+      color: blue;
+    }
+
+    #green:hover {
+      color: green;
+    }
+
+    #yellow:hover {
+      color: yellow;
+    }
+  }
+}

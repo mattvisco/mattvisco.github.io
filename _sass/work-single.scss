@@ -1,0 +1,210 @@
+.work-single {
+  width: 100%;
+  padding-left: $header-height;
+  box-sizing: border-box;
+
+  @media (max-width: $mobile-bp) {
+    padding-left: 0;
+  }
+
+  &__wrapper {
+    padding: 50px 60px;
+
+    @media (min-width: $large-bp) {
+      padding: 85px 120px;
+    }
+
+    @media (max-width: $mobile-bp) {
+      padding: $mobile-padding-top 5% 25px;
+    }
+  }
+
+  &__container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+
+    padding-bottom: 40px;
+
+    @media (max-width: $mobile-bp) {
+      display: inline-block;
+      width: 100%;
+      padding-bottom: $mobile-padding-bottom;
+    }
+  }
+
+  &__header {
+    width: 30%;
+
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+      padding-bottom: $mobile-padding-bottom;
+    }
+  }
+
+  &__title {
+    font-family: MaisonNeue-book;
+    font-size: 35px;
+    line-height: 35px;
+  }
+
+  &__desc {
+    font-family: MaisonMono-light;
+    font-size: 14px;
+    color: #999999;
+  }
+
+  &__extras-container {
+    padding-top: 20px;
+    font-size: 14px;
+  }
+
+  &__extras {
+    font-family: MaisonNeue-book;
+    color: blue;
+  }
+
+  &__extras-elements-container {
+    line-height: 25px;
+  }
+
+  &__extra {
+    font-family: MaisonMono-light;
+  }
+
+  &__header-img {
+    width: 70%;
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &__text-holder {
+    column-count: 2;
+    column-gap: 40px;
+    font-family: MaisonMono-Regular;
+    font-size: 14px;
+    padding-bottom: 40px;
+
+    @media (max-width: $mobile-bp) {
+      padding-bottom: $mobile-padding-bottom;
+      column-count: 1;
+    }
+
+    a {
+      font-family: MaisonNeue-light;
+      text-decoration: none;
+      padding-bottom: 2px;
+      border-bottom: 1px solid black;
+
+      &:hover {
+        border-bottom: 2px solid black;
+      }
+      &:active {
+        border-bottom: 1px solid black;
+      }
+    }
+
+    p {
+      margin-bottom: 25px;
+
+      @media (max-width: $mobile-bp) {
+        margin-bottom: 15px;
+      }
+    }
+  }
+
+  &__diagram {
+    width: 70%;
+    padding: 0 15% 0;
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+      padding: 0;
+    }
+  }
+
+  &__left {
+    width: 28%;
+    padding-right: 2%;
+
+    font-family: MaisonMono-Regular;
+    font-size: 11px;
+
+    color: red;
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+      padding: 0;
+    }
+
+    img {
+      width: 40%;
+      @media (max-width: $mobile-bp) {
+        width: 10%;
+      }
+    }
+  }
+
+  &__footnote {
+    padding-bottom: 8px;
+  }
+
+  &__right {
+    width: 70%;
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &__iframe-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+
+    iframe, object, embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__sub-header-container {
+    padding-bottom: 10px;
+
+    @media (max-width: $mobile-bp) {
+      display: inline-block;
+    }
+  }
+
+  &__sub-header {
+    width: 100%;
+    font-family: MaisonNeue-book;
+    font-size: 25px;
+    color: blue;
+  }
+
+  &__highlight {
+    padding-bottom: 1px;
+    border-bottom: solid 2px blue;
+  }
+
+  .no-pad {
+    padding: 0;
+    margin: 0;
+  }
+
+}

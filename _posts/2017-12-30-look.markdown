@@ -1,0 +1,446 @@
+---
+layout: work-single
+title:  "Look"
+permalink: /look/
+image: /assets/img/look/star-leaf-red.png
+categories: [physical, digital]
+year: 2017
+headerimg: /assets/img/look/family.jpg
+thanks: [Andrew Spitz, Anoushka Garg, Yee Mun Ooi, Rygaards International School, Bjørns Internationale Skole]
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class='work-single__text-holder'>
+<p>Nature supplies us with infinite wonder and beauty. A flower speckled with pollen, a fall leaf covered in morning dew. If you take a moment to look around, you will be amazed by what there is to see. Even in a busy city you can find nature creeping in and doing something breathtaking.</p>
+<p>We are surrounded by these spectacles yet so rarely do we take the time to observe it. We are so distracted by the fast pace of our times and the technology that supports it. Technology is an incredibly powerful tool yet the way we use it often feels limiting. We mainly engage with technology by sitting down at a computer or staring at a phone. For many years I’ve wondered what role technology has in the outdoors. Often I find it at odds, these screen based interactions tend to remove us from the world around.</p>
+<p class='no-pad'>Look aims to use technology to heighten outdoor exploration while still keeping us immersed in our surroundings. It is a project geared towards helping kids discover the beauty around them and spark their curiosity to explore. Kids have a natural affinity to probe the world around but our screen based technology often minimizes this. Look hopes to support this act of probing and encourage kids to hold onto that curiosity.</p>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    How it Works
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-full.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p><b>Collection</b><br>Kids receive a Look booklet that is specific to where they live. The book contains drawings of leaves that can be found throughout the city. Each leaf has a rank from common to rare, these rankings exist to build up excitement around collecting physical objects from nature.</p>
+<p><b>Storage</b><br>Look comes with magnetic slides and a shelving unit to safely secure each kids collection. These objects are meant to heighten each leaf found, to make them more than something that sits on a shelf and gets forgotten.</p>
+<p><b>Scanning</b><br>The scanning unit is where kids get to interact with the digitization process. Look attempts to make this more interactive and playful than just snapping a photo. The kids get to place the slide in a scanner, switch on a light, and then take a photo. This ritualization of the scanning process builds up anticipation and leads to more excitement.</p>
+<p class='no-pad'><b>Digital Play</b><br>This is when kids get to engage with their object in a new form. They can learn what their leaf actually is and confirm if they were correct. They also get to see their digital collection grow. The goal of this added layer is to sustain enthusiasm and subtly push kids back outside.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Look around, there's a world yet to be explored.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/249873004' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Collect
+    <img src='/assets/img/look/collect-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/book_cover.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The first page of the book aims to inspire curiosity.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/book_page1.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Each page of the book contains a drawing of a leaf, it's name, commonality and an area to mark found and timestamp it.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/book-leaves.png" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">In the back of the book is an area for the kids to safely secure their leaf while they are out collecting.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/book-close.gif" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Store
+    <img src='/assets/img/look/store-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/slide-single.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Look comes with transparent slides to make each leaf feel special.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/slides_many2.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The shelving unit allows the child to build up a physical collection.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/slide_holder.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The unit is designed to expose the leaves so the child can easily go back to it.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/storage-wb.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Scan
+    <img src='/assets/img/look/scan-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/stand.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The scanner illuminates the leaf which allows the kid to see things they may not have noticed.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/stand_switch.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Digital Play
+    <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/app-stand.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The app begins and ends with the question "What Leaf Have you Found?" This is a subtle reminder that they are not meant to spend too much time on the phone.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/249875906' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Process
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+<p>Look was built and conceptualized during a 10-week final project at CIID. I started with the guiding question of <span class='work-single__highlight'>can technology play a more active role in facilitating outdoor exploration rather than minimizing it?</span> As mentioned above I have struggled with answering this question and what better time to investigate it than during a 10-week self guided project. I also believe that introducing kids to nature can lead to a future where people respect and care for our planet. These were the two driving forces that helped me carry on through this project.</p>
+<p>Throughout the ten weeks, Look went through many phases. I began with research, both at the desk and in the field. I conducted about 7 expert interviews that helped define what my role would be in designing for children. One quote that stuck with me came from a designer by the name of Stiven Kerestegian who said, <span class='work-single__highlight'>“For a large percentage of children a blank canvas is paralyzing.”</span> This helped me understand what my project should do, I wanted to design something that could help kids get through that initial paralysis and then let them do the rest.</p>
+<p class='no-pad'>After this initial research phase I entered a long journey of experience prototyping. I conducted five different experience prototypes that lead me to the final outcome, Look. Each of these prototypes explored different parts of my final concept. Some prototypes focused more on collection others on storage, scanning or digital play. For each prototype I wanted to really understand what was grabbing kids attention and getting them excited about the outdoors.</p>
+</div>
+
+
+<!--prototype 1-->
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Prototype 1
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-1.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p>In my first prototyping session I ended up testing collection, storage, and digital play. During this session I was incredibly fortunate to see the digital play almost immediately result in further collection.</p>
+<p><b>Collection</b><br>For this session I was working with a class of 6 year olds. I collected leaves around a school and told kids to find those leaves. I found the conversions with the kids when trying to identify led us to discuss the leaves in more detail — talking about the form and texture.</p>
+<p><b>Storage</b><br>For the storage I wanted to see if kids were interested in memorializing leaves or objects from nature in some way. To do this I made a round disk for pressing and gave the kids paper to glue the leaves onto. The kids enjoyed the pressing action and seemed to be proud of the leaf they found.</p>
+<p class='no-pad'><b>Digital Play</b><br>I made a short animation in Adobe Premeire that rewarded the kids for finding a rare leaf. This almost immediately resulted in the kids running around to see what other things would reward them.</p>
+
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Collect
+    <img src='/assets/img/look/collect-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype1_1.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Soon after showing kids the leaf I was covered in leaves. Exciting but a bit overwhelming.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype1_2.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Store
+    <img src='/assets/img/look/store-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype1_4.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Digital Play
+    <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
+    <p class="work-single__footnote">After showing the kids the animation they started to dig for roots.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype1_7.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">One girl climbed a tree to find a berry.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype1_8.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<!--prototype 2-->
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Prototype 2
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-2.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p>My first prototyping session was relatively successful but I wanted to figure out a way to make it more hands off. I very much had to be present to conduct the first session and wanted to design something that allowed me to take a back seat. I also was inspired by some of the conversations around the aesthetics of the leaves and wanted to play around with emphasizing that.</p>
+<p><b>Storage</b><br>I wanted to make something portable so I designed a simple press made of wooden blocks. On the back was a pocket for paper which the leaf would be pressed onto. I found this design quite successful and although my final version was different this design certainly informed the final page in my booklet.</p>
+<p class='no-pad'><b>Digital Play</b><br>My hope with the digital component was to get kids paying attention to the form, texture, and colors of the leaf. My idea was to use the leaf to generate a 3d rendering of it, something I was calling a leaf tree. I hoped the kids would get excited about building a digital forest and want to find leaves based on their aesthetic properties. <span class='work-single__highlight'>This was my least successful prototype.</span></p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Store
+    <img src='/assets/img/look/store-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype2_1.png" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Digital Play
+    <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/251897679' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Kids looking at the openFrameworks app, they weren't so interested.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype2_2.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype2_3.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<!--prototype 3-->
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Prototype 3
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-3.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p>After what felt like a step back in prototyping success I decided to refocus. I hadn't really made an attempt to test the scanning unit and wanted to think about making a smooth experience from storage to scanning.</p>
+<p><b>Storage</b><br>My storage prototypes in previous sessions had been successful but still felt a bit clumsy. For this prototype I decided to use magnets which allowed me to get rid of the gluing process. Also by using acrylic sheets I felt I was able to highlight the leaf in a nice way while keeping the act of storage simple. I also tested a very simple storage unit to see if this peeked the children's interest.</p>
+<p class='no-pad'><b>Scanning</b><br>For the scanner I realized that I could leverage the phones camera to scan which informed my design of the object. I also decided to incorporate a lightbox to see if this added element would spark interest with the kids.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+  Store
+      <img src='/assets/img/look/store-red.png' alt='flow'/>
+    <p class="work-single__footnote">Each kid said that the leaves in storage were their favorite of the day.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype3_1.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Just showing kids this simple storage unit conjured the idea of building up a collection.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype3_7.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Scan
+    <img src='/assets/img/look/scan-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype3_3.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote"> It was exciting to see the kids find features of the leaf they hadn't seen before while playing with the scanner.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/prototype3_5.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<!--prototype 4-->
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Prototype 4
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-4.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p>With my third prototype I felt content with the design for the storing and scanning part of my concept and wanted to focus on the collection and digital play. Most importantly I wanted to ensure that the digital play resulted in more time outdoors and less time on the screen.</p>
+<p><b>Collection</b><br>I designed a simple four page book with leaves that the kids could find around the school. Each leaf had points and a commonality ranking associated with it. I wanted to see if this was enough scaffolding for the children and if this could be done in an analog fashion in order to maximize time away from the screen.</p>
+<p class='no-pad'><b>Digital Play</b><br>I built a simple application in openFrameworks to simulate identification of the leaves and some reward mechanics. The kids would hold the leaf to the computer and I would manually identify by pressing a button. Once the leaf was identified, the kids were rewarded points and received a fun fact about the leaf.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Collect
+    <img src='/assets/img/look/collect-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/251894495' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">An earlier version of the Look booklet.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/exp_proto/adventure-book.jpg" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    Digital Play
+    <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/251893701' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The kids were excited to go back outside and find the remaining leaves in the book.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/251893683' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<!--prototype 5-->
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Prototype 5
+  </div>
+</div>
+
+<img class='work-single__diagram' src='/assets/img/look/flows/flows-full.png' alt='flow'/>
+
+<div class='work-single__text-holder'>
+<p>With my third and fourth prototypes I felt I had my design locked in and I moved into the build and polish phase. I spent time really thinking about the branding of the product and trying to make each object a part of a cohesive family. Days were spent sanding wood, drawing icons on paper, tracing leaves, and spray painting for many hours. When I shot my concept video I was fortunate enough to get a chance to see kids interacting with my final version. It was really rewarding to see kids playing with it and engaging with nature in new ways.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Kids playing with the final prototype of the scanner.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/251893654' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">I traced many leaves to make the book.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/tracing-flow2.gif" alt="faavi interface scanning seeds in" />
+  </div>
+</div>
+
+<div class="work-single__container no-pad">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Here are all the versions of the scanning unit.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/look/prototype-flow.gif" alt="faavi interface scanning seeds in" />
+  </div>
+</div>

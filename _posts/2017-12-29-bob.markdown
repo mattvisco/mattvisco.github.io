@@ -1,0 +1,178 @@
+---
+layout: work-single
+title:  "bob."
+permalink: /bob/ 
+image: /assets/img/bob/02bob.gif
+categories: [physical]
+year: 2017
+headerimg: /assets/img/bob/04bob-header.jpeg
+contributors: [Arvind Sanjeev, Keyur Jain]
+thanks: [Yasaman Sheri]
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class='work-single__text-holder'>
+<p>Every day billions of people go through their daily routine. Something like — wake up, have breakfast, go to work, finish work, go home, go to sleep, and repeat. Routines are nice, they help keep us grounded but sometimes we forget to break out of these routines, to take some time to appreciate the beauty around us. Bob is a playful box that calls this to our attention with a simple reminder to “Stop and Smell the Roses.” Bob communicates through sound and smell — by hitting bob on the top it releases a ring of scented smoke that can be directed to hit a single person. Along with this scent ring, an audio track announcing the catch phrase “Stop and Smell the Roses” plays. This phrase changes its intonation based on how softly or aggressively one hits Bob.</p>
+<p class='no-pad'>Bob’s main goal in life is to help people take a moment to embrace the incredible smellscape around them.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Meet bob.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/230559455' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Hit bob and out comes a smoke ring.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/03bob.jpg" alt="Rings of smoke emerging from bob." />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Bob can create mushroom clouds of scent.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/05bob.jpg" alt="Bob being pushed and a mushroom cloud of smoke emerging." />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The team behind bob. From left to right: Keyur, Matt, Yasaman, Arvind.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/01bob.jpg" alt="The team posing with bob!" />
+  </div>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Made in Space
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+Soon after bob was built it went on a brief tour. Bob was fortunate enough to make an appearance at <a href='https://space10.io/'>Space10's</a> festival entitled <i>Made in Space</i>. Bob also made an appearance at the <i>Copenhagen Maker Festival</i> in 2018. It was great to see the world interact and have fun with bob. Children took a particular liking to bob.
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+   <p class="work-single__footnote">Bob in Space — bob's appearance at Made in Space.</p>
+  </div>
+  <div class="work-single__right">
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/224472464' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Another day of filling up bob.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/bob-fill.jpg" alt="Image of me filling up bob with smoke." type="video/mp4" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Bob hits people with smoke rings.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/bob-kids.jpg" alt="A dad and his two kids getting hit by bob's smoke ring." />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">People hit bob.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/bob-kids2.jpg" alt="Young child playing with bob." />
+  </div>
+</div>
+
+<div class="work-single__sub-header-container">
+  <div class="work-single__sub-header" >
+    Process
+  </div>
+</div>
+
+<div class='work-single__text-holder'>
+<p>Smell is the only sense that has a direct connection to the brain, bypassing the Thalamus. This is why smell is so effective at triggering detailed memories and emotions. However, smell is hard to quantify and express with human language. Try explaining to your friend what your day smelled like — not so easy to do.
+</p>
+
+<p>During a 2-week course at CIID entitled, As We May Sense, our group conducted a number of experiments to learn more about smell. Some of these experiments include:
+</p>
+
+<p><b>Smell Based Navigation</b><br>
+An experiment testing whether humans are capable of navigation using just olfactory information.
+</p>
+
+<p><b>Smell Maps</b><br>
+In this experiment, our team set out to record the different smells of the city using fabric on which an outline of the city was drawn.
+</p>
+
+<p><b>DIY Perfumes</b><br>
+Using a technique for making water based perfumes, our team created two perfumes which were extractions from flowers picked from different parts of the city.
+</p>
+
+<p class='no-pad'>These experiments helped us better understand smell and led us to the final outcome, bob.</p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+   <p class="work-single__footnote">A series of quick experiments that helped us learn how to work with smell.</p>
+  </div>
+  <div class="work-single__right">
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/230468200' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+   <p class="work-single__footnote">Keyur attempts to use the scent of a flower to map our city.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/keyur_marking_smell.jpg" alt="Keyur attempts to use the scent of a flower to map our city." />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Arvind attempts to locate himself using the smell map.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/arvind_smelling.jpg" alt="Arvind attempts to locate himself using the smell map." />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Our attempt at making water based perfume.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/perfume_petals.jpg" alt="Our attempt at making water based perfume." />
+  </div>
+</div>
+
+<div class="work-single__container no-pad">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Bob under construction.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/bob/process1a-2-1024x768.jpg" alt="Bob under construction." />
+  </div>
+</div>

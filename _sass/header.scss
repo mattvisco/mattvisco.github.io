@@ -1,0 +1,75 @@
+.header {
+  font-family: MaisonNeue-light;
+  font-size: 40px;
+  width: 100vh;
+  height: $header-height;
+  position: fixed;
+  left: -100vh;
+  top: 0;
+  z-index: 9998;
+
+  transform-origin: top right;
+  transform: rotate(-90deg) !important;
+
+  @media (max-height: $height-bp1) {
+    font-size: 30px;
+    height: $header-height2;
+  }
+
+  @media (max-height: $height-bp2) {
+    font-size: 20px;
+    height: $header-height3;
+  }
+
+  @media (max-width: $mobile-bp) {
+    transform: rotate(0deg) !important;
+    width: 100vw;
+    left: 0;
+    transition: top 0.4s ease-in-out;
+  }
+
+  &__up {
+    @media (max-width: $mobile-bp) {
+      top: -220px;
+    }
+  }
+
+  &__container {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: white;
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    flex-wrap: nowrap;
+    justify-content: space-around;
+
+    @media (max-width: $mobile-bp) {
+      display: block;
+      height: auto;
+      text-align: center;
+      margin-top: 40px;
+      width: 300px;
+    }
+  }
+
+  a {
+    &:hover {
+      border-bottom: 4px black solid;
+    }
+
+    &:active {
+      border-bottom: 6px black solid;
+    }
+  }
+
+  &__active {
+    a {
+      border-bottom: 4px black solid;
+    }
+  }
+
+}

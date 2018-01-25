@@ -1,0 +1,103 @@
+.about {
+  min-height: 100vh;
+  width: 100%;
+  padding-left: $header-height;
+  box-sizing: border-box;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+
+  &::after {
+    content: "";
+    background: url('/assets/img/about/circle-shadow.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
+
+    @media (max-width: $special-img-bp) {
+      background-size: auto 100%;
+    }
+  }
+
+  p {
+    margin-bottom: 10px;
+  }
+
+  @media (max-width: $mobile-bp) {
+    padding-left: 0;
+  }
+
+  &__container {
+    padding: 0 15% 25px;
+
+    @media (max-width: $mobile-bp) {
+      padding-top: $mobile-padding-top;
+    }
+  }
+
+  &__main-text {
+    text-align: left;
+    font-family: MaisonMono-Regular;
+    font-size: 13px;
+    line-height: 24px;
+
+    a {
+      font-family: MaisonNeue-light;
+      text-decoration: none;
+      padding-bottom: 2px;
+      border-bottom: 1px solid black;
+
+      &:hover {
+        border-bottom: 2px solid black;
+      }
+      &:active {
+        border-bottom: 1px solid black;
+      }
+    }
+  }
+
+  &__links {
+    text-align: center;
+    display: inline-block;
+    padding-top: 20px;
+    font-family: MaisonNeue-book;
+    font-size: 21px;
+
+    @media (max-width: $mobile-bp) {
+      text-align: left;
+
+      display: block;
+    }
+    a {
+      &:hover {
+        color: $link-green;
+      }
+
+      &:hover, &:active {
+        border-bottom: none;
+      }
+    }
+  }
+
+  &__link-element {
+    padding: 0 7px;
+    @media (max-width: $mobile-bp) {
+      display: block;
+      width: 100%;
+      padding: 0 0 8px;
+    }
+  }
+
+  &__slash {
+    @media (max-width: $mobile-bp) {
+      display: none;
+    }
+  }
+}
