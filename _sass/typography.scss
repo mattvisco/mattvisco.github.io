@@ -1,21 +1,65 @@
 @font-face {
   font-family: "MaisonNeue-book";
-  src: url("/assets/fonts/MaisonNeue/MaisonNeue-Book.ttf") format("ttf");
+  src: url("/assets/fonts/MaisonNeue/maisonneue-book-webfont.woff2") format('woff2'),
+  url('/assets/fonts/MaisonNeue/maisonneue-book-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MaisonNeue-book";
+  src: url("/assets/fonts/MaisonNeue/maisonneue-bookitalic-webfont.woff2") format('woff2'),
+  url('/assets/fonts/MaisonNeue/maisonneue-bookitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
   font-family: "MaisonNeue-light";
-  src: url("/assets/fonts/MaisonNeue/MaisonNeue-Light.ttf") format("ttf");
+  src: url("/assets/fonts/MaisonNeue/maisonneue-light-webfont.woff2") format('woff2'),
+  url('/assets/fonts/MaisonNeue/maisonneue-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MaisonNeue-light";
+  src: url("/assets/fonts/MaisonNeue/maisonneue-lightitalic-webfont.woff2") format('woff2'),
+  url('/assets/fonts/MaisonNeue/maisonneue-lightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
   font-family: "MaisonMono-Regular";
-  src: url("/assets/fonts/MaisonMono/MaisonMono-Regular.ttf") format("ttf");
+  src: url('/assets/fonts/MaisonMono/maisonmono-regular-webfont.woff2') format('woff2'),
+  url('/assets/fonts/MaisonMono/maisonmono-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MaisonMono-Regular";
+  src: url('/assets/fonts/MaisonMono/maisonmono-bold-webfont.woff2') format('woff2'),
+  url('/assets/fonts/MaisonMono/maisonmono-bold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MaisonMono-Regular";
+  src: url('/assets/fonts/MaisonMono/maisonmono-italic-webfont.woff2') format('woff2'),
+  url('/assets/fonts/MaisonMono/maisonmono-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
   font-family: "MaisonMono-light";
-  src: url("/assets/fonts/MaisonMono/MaisonMono-Light.ttf") format("ttf");
+  src: url('/assets/fonts/MaisonMono/maisonmono-light-webfont.woff2') format('woff2'),
+  url('/assets/fonts/MaisonMono/maisonmono-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 a {
