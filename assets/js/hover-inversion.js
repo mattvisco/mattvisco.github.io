@@ -52,7 +52,7 @@ function resetBlockSize(e) {
 function init() {
   blockXSize = 20;
   headerHeight = $('.header').height();
-  blockYSize = $('#map-copy').height();
+  blockYSize = Math.max($('#map-copy').height(), $(window).width());
   blockYEnd = blockY+blockYSize;
   rect = 'rect('+blockY+'px,'+blockXEnd+'px,'+blockYEnd+'px,'+blockX+'px)';
   $('#map-copy').css({clip: rect});
