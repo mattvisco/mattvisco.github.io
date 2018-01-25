@@ -279,13 +279,13 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
     <p class="work-single__footnote">Kids looking at the openFrameworks app, they weren't so interested.</p>
   </div>
   <div class="work-single__right" >
-    <img src="/assets/img/look/exp_proto/prototype2_2.jpg" alt="faavi interface scanning seeds in" />
+    <img src="/assets/img/look/exp_proto/prototype2_2.JPG" alt="Image of child looking at computer" />
   </div>
 </div>
 
 <div class="work-single__container">
   <div class="work-single__right" >
-    <img src="/assets/img/look/exp_proto/prototype2_3.jpg" alt="faavi interface scanning seeds in" />
+    <img src="/assets/img/look/exp_proto/prototype2_3.JPG" alt="Close up of green tree leaf on computer over the shoulder of child." />
   </div>
 </div>
 
