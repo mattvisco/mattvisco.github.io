@@ -5,7 +5,7 @@ permalink: /39,-105/
 image: /assets/img/39,-105/thumb.gif
 categories: [digital]
 year: 2016
-headerimg: /assets/img/39,-105/header.jpg
+headerimg: /assets/img/39,-105/header.JPG
 thanks: [Zach Lieberman, Taeyoon Choi]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
@@ -68,7 +68,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
     <p class="work-single__footnote">39°N, -105°W was exhibited at SFPC's Summer 2016 Showcase.</p>
   </div>
   <div class="work-single__right" >
-    <img src="/assets/img/39,-105/6.jpg" alt="that good alt text" />
+    <img src="/assets/img/39,-105/6.JPG" alt="that good alt text" />
   </div>
 </div>
 
