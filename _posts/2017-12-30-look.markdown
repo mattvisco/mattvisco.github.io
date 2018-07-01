@@ -7,6 +7,7 @@ categories: [physical, digital]
 year: 2017
 headerimg: /assets/img/look/family.jpg
 thanks: [Andrew Spitz, Anoushka Garg, Yee Mun Ooi, Rygaards International School, Bjørns Internationale Skole]
+awards: [Core 77 - Student Notable Honor in Interaction]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
