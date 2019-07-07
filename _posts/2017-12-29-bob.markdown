@@ -8,6 +8,7 @@ year: 2017
 headerimg: /assets/img/bob/04bob-header.jpeg
 contributors: [Arvind Sanjeev, Keyur Jain]
 thanks: [Yasaman Sheri]
+places: [Made in Space]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 

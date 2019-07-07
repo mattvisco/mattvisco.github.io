@@ -54,6 +54,20 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
                     </div>
                 </div>
                 {% endif %}
+
+                {% if page.places %}
+                <div class="work-single__extras-container">
+                    <span class="work-single__extras">Exhibited At</span>
+                    <div class="work-single__extras-elements-container">
+                        {% for place in page.places %}
+                        <div class="work-single__extra">
+                            {{ place }}
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
             </div>
 
             <div class="work-single__header-img">

@@ -1,0 +1,107 @@
+---
+layout: work-single
+title:  "Ernest"
+permalink: /ernest/
+image: /assets/img/ernest/ernest.gif
+categories: [digital,physical]
+contributors: [Sean Mulholland]
+thanks: [IDEO]
+places: [IDEO lobby, CODAME Intersections]
+year: 2018
+headerimg: /assets/img/ernest/ERNEST.jpg
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+<div class='work-single__text-holder'>
+<p>ERNEST is from an era prior to ubiquitous data collection, so it needs you to help train the Happiness Model™ so it can learn what content makes people happiest.</p>
+
+<p>ERNEST uses computer vision to detect your face, and then reacts to you based on your facial expressions. He’s learning to understand emotions and how various pieces of content can affect your emotional expressions. But while we’re training a Happiness Model™ with ERNEST, how else might this technology be applied despite the good intentions of its creators?</p>
+
+<p>Through ERNEST we hope to open a dialogue around the ethics of gathering the data used to train and validate models, the places bias can creep into these models, the gap between intent and real-world applications of these models, and the tensions around augmenting or automating decision making using imperfect models.</p>
+
+<p class='no-pad'><a href='https://www.ideo.com/blog/no-beards-allowed-exploring-bias-in-facial-recognition-ai' target='_blank'>Read more about Ernest on the IDEO blog.</a></p>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Human and machine's working together to create stories.</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/345332841' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Ernest installed in the IDEO lobby.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/ERNEST-IDEO-Lobby.jpg" alt="that good alt text" />
+  </div>
+</div>
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Ernest installed at CODAME Intersections.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/codame.jpg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">The Ernest interface is an homage to Eliza, an AI bot created by MIT in the 60's.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/ERNEST-interface.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Ernest tracks faces and recognizes a humans most likely emotions.</p>
+  </div> 
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/Training-Face-1.jpg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">A model created to visualize the IDEO lobby install. This model was made by IDEO's production team.</p>
+  </div> 
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/model.jpeg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Again with the help of IDEO's production squad, we built out nice podiums for our old school CRT monitors to sit on.</p>
+  </div> 
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/prototype.jpeg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Sean's home slowly filled with CRT monitors.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/tvs.jpeg" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container no-pad">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Sean's DIY converter to put Ernest on our CRT's.</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/ernest/converter.jpeg" alt="that good alt text" />
+  </div>
+</div>
