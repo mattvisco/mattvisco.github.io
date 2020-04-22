@@ -64,7 +64,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 <div class="work-single__container">
   <div class="work-single__left" >
     <p class="work-single__footnote">Ernest tracks faces and recognizes a humans most likely emotions.</p>
-  </div> 
+  </div>
   <div class="work-single__right" >
     <img src="/assets/img/ernest/Training-Face-1.jpg" alt="that good alt text" />
   </div>
@@ -73,7 +73,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 <div class="work-single__container">
   <div class="work-single__left" >
     <p class="work-single__footnote">A model created to visualize the IDEO lobby install. This model was made by IDEO's production team.</p>
-  </div> 
+  </div>
   <div class="work-single__right" >
     <img src="/assets/img/ernest/model.jpeg" alt="that good alt text" />
   </div>
@@ -82,7 +82,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 <div class="work-single__container">
   <div class="work-single__left" >
     <p class="work-single__footnote">Again with the help of IDEO's production squad, we built out nice podiums for our old school CRT monitors to sit on.</p>
-  </div> 
+  </div>
   <div class="work-single__right" >
     <img src="/assets/img/ernest/prototype.jpeg" alt="that good alt text" />
   </div>
