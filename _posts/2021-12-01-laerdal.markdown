@@ -1,0 +1,101 @@
+---
+layout: work-single
+title:  "RQI for NRP"
+permalink: /laerdal/
+image: /assets/img/laerdal/live-feedback.gif
+categories: [digital, physical]
+contributors: [Thomas Blom, Torben Jakobsen]
+year: 2021
+headerimg: /assets/img/laerdal/laerdal-header-img.png
+roles: "Design Lead, Developer"
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+
+
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+
+  <p>2.4M newborns die before the first month after birth. One of the leading causes of death is <a href="https://www.seattlechildrens.org/conditions/birth-asphyxia/#:~:text=What%20is%20birth%20asphyxia%3F,can%20happen%20without%20anyone%20knowing." target="_blank">birth asphyxia</a>. The single most preventative measure of birth asphyxia is high quality Positive Pressure Ventilation (PPV). <i>RQI for NRP</i> is a training program aimed at helping improve PPV to reduce global newborn mortality by 2%, around 50,000 lives saved.</p>
+
+  <p><i>Laerdal Medical</i> and <i>RQI Partners</i> worked together to create a curriculum for doctors and nurses to help improve & maintain high quality PPV performance. The curriculum was based off high frequency / low dose training, meaning every quarter hospital staff are required to train. Our team designed and developed a skills training course that allowed doctors/nurses to practice ventilating on a manikin. After ventilation they were assessed and graded on four key parameters — pressure, ventilation rate, mask leakage, and head position. Our course was the first time most staff had received accurate feedback on their PPV skills.</p>
+
+  <p><i>RQI for NRP</i> is deployed in hospitals across the USA and is currently being translated to Portuguese, Spanish, Japanese, and Chinese so it can be deployed into international markets.</p>
+
+  <p class='no-pad'>Learn more about <a href='https://rqipartners.com/solutions/in-hospital-solutions/nrp/' target='_blank'>RQI for NRP</a>.</p>
+
+  </div>
+
+</div>
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">This video explains the <i>RQI for NRP</i> program and the value it delivers.</p>
+  </div>
+  <div class="work-single__right no-bg"  >
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/KfPcSa50y_M' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Each quarter doctors/nurses are required to take an assessment of their PPV skills with live feedback. As mentioned above, their PPV performance is graded on four key parameters — pressure, ventilation rate, mask leakage, and head position.</p>
+     <p class="work-single__footnote work-single__no-line"><i>This demo (and the ones below) uses a virtual ventilator. In practice, hospital staff use real ventilation devices on a manikin.</i></p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design">
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/HF9CCdpPL1A' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">To help track skill progression, doctors/nurses are required to take a "baseline" assessment (without any feedback) twice a year. It is important to test without feedback because this is more representative of what resuscitation will look like during a birth. </p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design">
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/UdjtR1F9E4o' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Doctors/nurses also have the opportunity to practice their skills independent of the assessment. If there is one parameter that they are struggling with, they can practice this in isolation. In this video, the student practices ventilation rate.</p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design">
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/Si4r6AMWX-4' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Throughout the course their are various moments the doctors/nurses can watch tutorial videos to better understand what good PPV looks like.</p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design">
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/Si4r6AMWX-4' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>

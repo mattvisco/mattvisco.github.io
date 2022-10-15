@@ -1,0 +1,81 @@
+---
+layout: work-single
+title:  "AI Fish"
+permalink: /ai-fish/
+image: /assets/img/aifish/species-classify.gif
+categories: [digital]
+contributors: [Justin Kay, Jimmy Freese]
+year: 2020/2022
+headerimg: /assets/img/aifish/ai-fish.png
+roles: "Design Lead, Developer"
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+
+
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+  <p>Fisheries are required to monitor the amount of fishing that occurs throughout the year to help manage the ecosystem. Electronic monitoring (EM) has demonstrated that it is an effective tool to support fishery management. If EM were to scale to cover just 10% of the worlds fishing vessels, it would produce over 10,000,000 hours of footage annually. </p>
+  <p>AI.Fish helps EM scale via machine learning algorithms that automates parts of the reviewing process from removing footage with inactivity to detecting part of videos that contain "fish events". </p>
+
+  <p>During my time at AI.Fish, I lead design and development on a human-in-the-loop review software. This required me to talk to various stakeholder in the fishery ecosystem to break down their needs and desires for a review software and user test our product with potential end users. My time was also spent helping navigate an industry with a lot of red tape and creating assets / tools to get exposure and educate potential customers — from landing pages, to product videos, to small demos highlighting core technology. </p>
+  
+
+  <p class='no-pad'>Learn more about <a href='http://www.ai.fish/' target='_blank'>Ai.Fish</a>.</p>
+  </div>
+
+</div>
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">A short marketing video I designed and edited explaining the need for EM and the value of AI.Fish.</p>
+  </div>
+  <div class="work-single__right no-bg"  >
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/2dCJ3F1Uf_M' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">An early draft of a new landing page for AI.Fish — showcasing the capabilities of the team, services they offer, and press they've received.</p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design"  >
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/Rw7mfNA3sDU' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">A demo app designed for the intention of showcasing the suite of AI tools the team has in their arsenal to get customer buy in.</p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design"  >
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/_5ZRv0svdv4' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Designed (and developed) a fishery review software incorporating AI processing for efficiency gain. Due to the red tape around this industry, the team ended up not pursuing a fully fledge review software and instead decided to sell an API package to integrate with existing tools.</p>
+  </div>
+  <div class="work-single__right no-bg work-single__screen-design"  >
+
+  <div class='work-single__iframe-container'>
+
+  <iframe src='https://www.youtube.com/embed/8IElUTVBf8Y' title="YouTube video player" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+  </div>
+</div>

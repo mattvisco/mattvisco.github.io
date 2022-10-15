@@ -9,11 +9,14 @@ headerimg: /assets/img/peel/rectangles-header.png
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Peel was inspired by the book <span class='work-single__highlight'>Interaction of Color by Josef Albers</span>. This book exposes the reader to perceptual changes in colors triggered by their interactions. For example, identical colors can be perceived as different if they are placed on top of colors with different levels of brightness.</p>
-<p>Peel aims to let users explore this interaction in a fun and easy to use manner. As rectangles are added and layered in different ways the image takes a new form. The UI is stripped down as to force the user to focus on the key interaction. If a rectangle is placed on top of another it is peeling away that layer thus an entirely new color is exposed.</p>
-<p>This application didn't incorporate color theory and the colors selected are relatively arbitrary. The next step would be to really make the colors interact in the way Josef Albers discusses.</p>
-<p class='no-pad'><a href='/rectangles/' target='_blank'>Peel here.</a></p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Peel was inspired by the book <span class='work-single__highlight'>Interaction of Color by Josef Albers</span>. This book exposes the reader to perceptual changes in colors triggered by their interactions. For example, identical colors can be perceived as different if they are placed on top of colors with different levels of brightness.</p>
+    <p>Peel aims to let users explore this interaction in a fun and easy to use manner. As rectangles are added and layered in different ways the image takes a new form. The UI is stripped down as to force the user to focus on the key interaction. If a rectangle is placed on top of another it is peeling away that layer thus an entirely new color is exposed.</p>
+    <p>This application didn't incorporate color theory and the colors selected are relatively arbitrary. The next step would be to really make the colors interact in the way Josef Albers discusses.</p>
+    <p class='no-pad'><a href='/rectangles/' target='_blank'>Peel here.</a></p>
+  </div>
 </div>
 
 <div class="work-single__container">

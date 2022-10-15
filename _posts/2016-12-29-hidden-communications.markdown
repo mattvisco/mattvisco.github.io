@@ -10,11 +10,14 @@ thanks: [Andrew Friend, Sitraka Rakotoniaina]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Hidden Communications was developed during a four-week intensive program called <a href="http://schoolofma.org/" target='_blank'>School of Machines, Making, and Make-Believe.</a> This project explores the ways in which objects are embedded with subtle forms of communication. Hidden Communications aims to unearth the ways in which objects can affect our behavior and actions through their own behaviors.</p>
-<p>Two pieces were made for this project:</p>
-<p><b>Growing Trash</b><br> This piece takes the form of a trash can that grows taller whenever it is close to being full. The trash can promotes laziness in its user by adding space when it would otherwise be time to take the trash out.</p>
-<p class='no-pad'><b>Unread Cats</b><br>Unread Cats takes the form of a chrome extension that populates your gmail with cat videos based on the amount of unread emails you have. This extension instills a laziness in its user by encouraging him or her to not read their emails and watch cat videos instead.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Hidden Communications was developed during a four-week intensive program called <a href="http://schoolofma.org/" target='_blank'>School of Machines, Making, and Make-Believe.</a> This project explores the ways in which objects are embedded with subtle forms of communication. Hidden Communications aims to unearth the ways in which objects can affect our behavior and actions through their own behaviors.</p>
+    <p>Two pieces were made for this project:</p>
+    <p><b>Growing Trash</b><br> This piece takes the form of a trash can that grows taller whenever it is close to being full. The trash can promotes laziness in its user by adding space when it would otherwise be time to take the trash out.</p>
+    <p class='no-pad'><b>Unread Cats</b><br>Unread Cats takes the form of a chrome extension that populates your gmail with cat videos based on the amount of unread emails you have. This extension instills a laziness in its user by encouraging him or her to not read their emails and watch cat videos instead.</p>
+  </div>
 </div>
 
 <div class="work-single__container">

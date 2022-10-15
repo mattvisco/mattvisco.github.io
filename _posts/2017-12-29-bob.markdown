@@ -12,9 +12,12 @@ places: [Made in Space]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Every day billions of people go through their daily routine. Something like — wake up, have breakfast, go to work, finish work, go home, go to sleep, and repeat. Routines are nice, they help keep us grounded but sometimes we forget to break out of these routines, to take some time to appreciate the beauty around us. Bob is a playful box that calls this to our attention with a simple reminder to “Stop and Smell the Roses.” Bob communicates through sound and smell — by hitting bob on the top it releases a ring of scented smoke that can be directed to hit a single person. Along with this scent ring, an audio track announcing the catch phrase “Stop and Smell the Roses” plays. This phrase changes its intonation based on how softly or aggressively one hits Bob.</p>
-<p class='no-pad'>Bob’s main goal in life is to help people take a moment to embrace the incredible smellscape around them.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Every day billions of people go through their daily routine. Something like — wake up, have breakfast, go to work, finish work, go home, go to sleep, and repeat. Routines are nice, they help keep us grounded but sometimes we forget to break out of these routines, to take some time to appreciate the beauty around us. Bob is a playful box that calls this to our attention with a simple reminder to “Stop and Smell the Roses.” Bob communicates through sound and smell — by hitting bob on the top it releases a ring of scented smoke that can be directed to hit a single person. Along with this scent ring, an audio track announcing the catch phrase “Stop and Smell the Roses” plays. This phrase changes its intonation based on how softly or aggressively one hits Bob.</p>
+    <p class='no-pad'>Bob’s main goal in life is to help people take a moment to embrace the incredible smellscape around them.</p>
+  </div>
 </div>
 
 <div class="work-single__container">

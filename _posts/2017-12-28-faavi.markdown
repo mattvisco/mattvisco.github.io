@@ -11,10 +11,13 @@ thanks: [Simone Rebaudengo, Josh Noble]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Big industry farms are an essential part of sustaining a population more than 7 billion people, yet urban farming has become a rapidly growing trend across the world. There is an increasing curiosity about where our food comes from, how it is produced, and how this can be done in an ethical and sustainable way. Automated vertical farms are emerging as a viable solution to the question of scaled urban farming, but are not accessible to individual growers. This is where faavi steps in.</p>
-<p>With its community-based marketplace, faavi allows everyday citizens to produce food at the comfort of their own home and sell it easily to those nearby. The faavi ecosystem uses artificial intelligence to analyze the price of a given crop in real time. This allows the producer to make decisions on whether to grow a crop quickly or slowly. The change in speed alters the change in quality — owners of faavi must make a decision whether to maximize profit or quality or something in between.</p>
-<p class='no-pad'><a href="http://faavi.weebly.com/" target="_blank">Sign up for faavi here</a></p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Big industry farms are an essential part of sustaining a population more than 7 billion people, yet urban farming has become a rapidly growing trend across the world. There is an increasing curiosity about where our food comes from, how it is produced, and how this can be done in an ethical and sustainable way. Automated vertical farms are emerging as a viable solution to the question of scaled urban farming, but are not accessible to individual growers. This is where faavi steps in.</p>
+    <p>With its community-based marketplace, faavi allows everyday citizens to produce food at the comfort of their own home and sell it easily to those nearby. The faavi ecosystem uses artificial intelligence to analyze the price of a given crop in real time. This allows the producer to make decisions on whether to grow a crop quickly or slowly. The change in speed alters the change in quality — owners of faavi must make a decision whether to maximize profit or quality or something in between.</p>
+    <p class='no-pad'><a href="http://faavi.weebly.com/" target="_blank">Sign up for faavi here</a></p>
+  </div>
 </div>
 
 <div class="work-single__sub-header-container">

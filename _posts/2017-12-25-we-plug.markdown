@@ -11,10 +11,13 @@ thanks: [Dario Buzzini, Massimo Banzi]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Every day the average person in the western world consumes about 75 kilowatt-hours a day. It takes about one pound of coal to produce one kilowatt-hour. This means every day the average person indirectly burns about 75 pounds of coal. Every time we turn on a light or leave the fridge door open we are throwing more coal into the furnace.</p>
-<p>We burn this coal because we don’t think about it. Turning on a light is just a flick of the switch, to charge your laptop — just plug it in. WePlug ends this comfortable indulgence. WePlug is designed like an ordinary socket with an added socket on the top. Until you attach your desired top cube the socket does not work. The top cubes come in different forms. One forces you to inflate the cube with a pump to use the socket, another invites you to turn a crank until your desired energy usage time is met, and our third cube visualizes your energy consumption compared to the average persons on any given day.</p>
-<p class='no-pad'>With WePlug we hope people will think twice before they plug in.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Every day the average person in the western world consumes about 75 kilowatt-hours a day. It takes about one pound of coal to produce one kilowatt-hour. This means every day the average person indirectly burns about 75 pounds of coal. Every time we turn on a light or leave the fridge door open we are throwing more coal into the furnace.</p>
+    <p>We burn this coal because we don’t think about it. Turning on a light is just a flick of the switch, to charge your laptop — just plug it in. WePlug ends this comfortable indulgence. WePlug is designed like an ordinary socket with an added socket on the top. Until you attach your desired top cube the socket does not work. The top cubes come in different forms. One forces you to inflate the cube with a pump to use the socket, another invites you to turn a crank until your desired energy usage time is met, and our third cube visualizes your energy consumption compared to the average persons on any given day.</p>
+    <p class='no-pad'>With WePlug we hope people will think twice before they plug in.</p>
+  </div>
 </div>
 
 <div class="work-single__container">

@@ -12,9 +12,12 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 ---
 
 
-<div class='work-single__text-holder'>
-<p>5toryline is an exploration into human-machine relationships. With the rapid development of artificial intelligence and machine learning, we have never been closer to being able to co-create with the machines around us. 5toryline explores human-machine creativity by creating a platform in which you can collaboratively generate stories with your machine.</p>
-<p class='no-pad'><a href="https://github.com/mattvisco/5toryline" target="_blank">Download and run the application.</a></p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>5toryline is an exploration into human-machine relationships. With the rapid development of artificial intelligence and machine learning, we have never been closer to being able to co-create with the machines around us. 5toryline explores human-machine creativity by creating a platform in which you can collaboratively generate stories with your machine.</p>
+    <p class='no-pad'><a href="https://github.com/mattvisco/5toryline" target="_blank">Download and run the application.</a></p>
+  </div>
 </div>
 
 <div class="work-single__sub-header-container">

@@ -1,9 +1,7 @@
 <header class="header">
+    <div class="header__mobile-icon"><img src="/assets/img/index/mobile-close_normal.png" onclick="toggleMobileMenu(this);" onmouseover="hover(this);" onmouseout="unhover(this);" ></div>
     <div class="header__container">
-
-
-        <div class="header__obj {% if page.url == '/' %}header__active{% endif %}"><a href="{{site.baseurl}}/">Matt Visco</a></div>
-
+        <div class="header__obj {% if page.url == '/' %}header__active{% endif %}" ><a href="{{site.baseurl}}/">Matt Visco</a></div>
         <div class="header__obj {% if page.url == '/work/' %}header__active{% endif %}"><a href="{{site.baseurl}}/work">Work</a></div>
         <div class="header__obj {% if page.url == '/about/' %}header__active{% endif %}"><a href="{{site.baseurl}}/about">About</a></div>
     </div>

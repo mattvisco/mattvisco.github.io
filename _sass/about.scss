@@ -4,27 +4,9 @@
   padding-left: $header-height;
   box-sizing: border-box;
   display: flex;
-  text-align: center;
   flex-direction: column;
   justify-content: center;
 
-  &::after {
-    content: "";
-    background: url('/assets/img/about/circle-shadow.jpeg');
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    opacity: 0.3;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    position: fixed;
-    z-index: -1;
-
-    @media (max-width: $special-img-bp) {
-      background-size: auto 100%;
-    }
-  }
 
   p {
     margin-bottom: 10px;
@@ -35,9 +17,13 @@
   }
 
   &__container {
-    padding: 0 15% 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 
     @media (max-width: $mobile-bp) {
+      flex-direction: column;
+      padding: 0 10% 25px;
       padding-top: $mobile-padding-top;
     }
   }
@@ -47,9 +33,10 @@
     font-family: MaisonMono-Regular;
     font-size: 13px;
     line-height: 24px;
+    width: 400px;
 
     a {
-      font-family: MaisonNeue-light;
+      font-family: MaisonMono-Regular;
       text-decoration: none;
       padding-bottom: 2px;
       border-bottom: 1px solid black;
@@ -61,19 +48,32 @@
         border-bottom: 1px solid black;
       }
     }
+
+    p {
+      padding-bottom: 5px;
+    }
+
+    @media (max-width: $mobile-bp) {
+      width: 100%;
+    }
   }
 
   &__links {
-    text-align: center;
     display: inline-block;
-    padding-top: 20px;
+    padding-left: 50px;
     font-family: MaisonNeue-book;
     font-size: 21px;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
 
     @media (max-width: $mobile-bp) {
-      text-align: left;
+      // text-align: left;
 
-      display: block;
+      // display: block;
+      // flex-direction: row;
+      padding-left: 0;
+      padding-top: 30px;
     }
     a {
       &:hover {
@@ -87,11 +87,19 @@
   }
 
   &__link-element {
+    display: flex;
+    align-items: center;
     padding: 0 7px;
+    
     @media (max-width: $mobile-bp) {
       display: block;
       width: 100%;
       padding: 0 0 8px;
+    }
+
+    img {
+      width: 25px;
+      padding-right: 15px;
     }
   }
 

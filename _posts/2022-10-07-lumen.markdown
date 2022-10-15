@@ -1,0 +1,99 @@
+---
+layout: work-single
+title:  "Lumen"
+permalink: /lumen/
+image: /assets/img/lumen/LumenDrawing.gif
+categories: [digital,physical]
+contributors: [Arvind Sanjeev, Can Yanardag, Anoushka Garg]
+thanks: "To all our advisors, investors, and believers"
+year: 2022
+headerimg: /assets/img/lumen/lumen_hero.JPG
+roles: "CEO, Designer, Developer"
+jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
+---
+
+
+
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+  <p>Lumen is a response to the current state of the metaverse. The metaverse is not built for group experiences. This is why we built an augmented reality flashlight — it is an iPhone-powered handheld device that uses projected AR to allow users to freely walk around and augment their physical surroundings. Just shine Lumen on an object and/or surface and see it come alive. We believe in a metaverse that is physical first, social by default, and not constrained to screen-based experiences.</p>
+
+  <p>Lumen was incorporated in 2021. We have sold units to entities such as Snap, Meow Wolf, Stanford, Harvard, and creative agencies across the globe. </p>
+
+
+  <p>Some notable investors include: <a href='https://www.crunchbase.com/person/alex-chung-2' target='_blank'>Alex Chung</a>, <a href='http://www.aaronkoblin.com/' target='_blank'>Aaron Koblin</a>, and <a href='https://www.linkedin.com/in/davidloringrose/' target='_blank'>David Rose</a></p>
+
+
+  <p class='no-pad'>Check out <a href='https://www.lumen.world/' target='_blank'>Lumen.World</a> to learn more.</p>
+  </div>
+
+</div>
+
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">An augmented reality flashlight enabling AR experiences for groups</p>
+  </div>
+  <div class="work-single__right" >
+    <div class='work-single__iframe-container'>
+      <iframe src='https://player.vimeo.com/video/694350887' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Lumen at-home escape room experience</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/EscapeRoomLumen.gif" alt="Lumen at-home escape room experience" />
+  </div>
+</div>
+
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Lumen being used to color reliefs in museum</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/lumen_sculpture.png" alt="Lumen being used to color reliefs in museum" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">A studio ghibli inspired game, created by Ollie Tyler</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/sprite-finder.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Using lumen outdoors to discover hidden content</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/brick-wall-lumen.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">Lumen being tested in the classroom</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/lumen_school.png" alt="that good alt text" />
+  </div>
+</div>
+
+<div class="work-single__container">
+  <div class="work-single__left" >
+    <p class="work-single__footnote">See what's inside Lumen</p>
+  </div>
+  <div class="work-single__right" >
+    <img src="/assets/img/lumen/lumen-explode.gif" alt="that good alt text" />
+  </div>
+</div>

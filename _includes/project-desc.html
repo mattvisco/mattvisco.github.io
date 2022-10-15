@@ -1,0 +1,77 @@
+
+<div class="work-single__header">
+    <div class="work-single__title">{{ page.title | escape }}</div>
+    <div class="work-single__desc">
+        {% for category in page.categories %}
+        {{ category }}{% if forloop.index < forloop.length %} /
+        {% else %},
+        {% endif %}
+        {% endfor %}{{ page.year }}
+    </div>
+
+    {% if page.roles %}
+    <div class="work-single__extras-container">
+        <span class="work-single__extras">Role</span>
+        <div class="work-single__extras-elements-container">
+            {% for role in page.roles %}
+                <div class="work-single__extra">
+                {{ role }}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.contributors %}
+    <div class="work-single__extras-container">
+        <span class="work-single__extras">Contributors</span>
+        <div class="work-single__extras-elements-container">
+            {% for contributor in page.contributors %}
+                <div class="work-single__extra">
+                {{ contributor }}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.thanks %}
+    <div class="work-single__extras-container">
+        <span class="work-single__extras">Special Thanks</span>
+        <div class="work-single__extras-elements-container">
+            {% for thanks in page.thanks %}
+            <div class="work-single__extra">
+                {{ thanks }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.awards %}
+    <div class="work-single__extras-container">
+        <span class="work-single__extras">Awards</span>
+        <div class="work-single__extras-elements-container">
+            {% for award in page.awards %}
+            <div class="work-single__extra">
+                {{ award }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.places %}
+    <div class="work-single__extras-container">
+        <span class="work-single__extras">Exhibited At</span>
+        <div class="work-single__extras-elements-container">
+            {% for place in page.places %}
+            <div class="work-single__extra">
+                {{ place }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+</div>

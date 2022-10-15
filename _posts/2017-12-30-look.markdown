@@ -2,8 +2,9 @@
 layout: work-single
 title:  "Look"
 permalink: /look/
-image: /assets/img/look/star-leaf-red.png
+image: /assets/img/look/book_cover.jpg
 categories: [physical, digital]
+roles: "Mastermind"
 year: 2017
 headerimg: /assets/img/look/family.jpg
 thanks: [Andrew Spitz, Anoushka Garg, Yee Mun Ooi, Rygaards International School, Bjørns Internationale Skole]
@@ -11,10 +12,13 @@ awards: [Core 77 - Student Notable Honor in Interaction]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Nature supplies us with infinite wonder and beauty. A flower speckled with pollen, a fall leaf covered in morning dew. If you take a moment to look around, you will be amazed by what there is to see. Even in a busy city you can find nature creeping in and doing something breathtaking.</p>
-<p>We are surrounded by these spectacles yet so rarely do we take the time to observe it. We are so distracted by the fast pace of our times and the technology that supports it. Technology is an incredibly powerful tool yet the way we use it often feels limiting. We mainly engage with technology by sitting down at a computer or staring at a phone. For many years I’ve wondered what role technology has in the outdoors. Often I find it at odds, these screen based interactions tend to remove us from the world around.</p>
-<p class='no-pad'>Look aims to use technology to heighten outdoor exploration while still keeping us immersed in our surroundings. It is a project geared towards helping kids discover the beauty around them and spark their curiosity to explore. Kids have a natural affinity to probe the world around but our screen based technology often minimizes this. Look hopes to support this act of probing and encourage kids to hold onto that curiosity.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+  <p>Nature supplies us with infinite wonder and beauty. A flower speckled with pollen, a fall leaf covered in morning dew. If you take a moment to look around, you will be amazed by what there is to see. Even in a busy city you can find nature creeping in and doing something breathtaking.</p>
+  <p>We are surrounded by these spectacles yet so rarely do we take the time to observe it. We are so distracted by the fast pace of our times and the technology that supports it. Technology is an incredibly powerful tool yet the way we use it often feels limiting. We mainly engage with technology by sitting down at a computer or staring at a phone. For many years I’ve wondered what role technology has in the outdoors. Often I find it at odds, these screen based interactions tend to remove us from the world around.</p>
+  <p class='no-pad'>Look aims to use technology to heighten outdoor exploration while still keeping us immersed in our surroundings. It is a project geared towards helping kids discover the beauty around them and spark their curiosity to explore. Kids have a natural affinity to probe the world around but our screen based technology often minimizes this. Look hopes to support this act of probing and encourage kids to hold onto that curiosity.</p>
+  </div>
 </div>
 
 <div class="work-single__sub-header-container">
@@ -44,7 +48,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Collect
     <img src='/assets/img/look/collect-red.png' alt='flow'/>
   </div>
@@ -81,7 +85,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Store
     <img src='/assets/img/look/store-red.png' alt='flow'/>
   </div>
@@ -118,7 +122,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Scan
     <img src='/assets/img/look/scan-red.png' alt='flow'/>
   </div>
@@ -137,7 +141,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Digital Play
     <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
   </div>
@@ -189,7 +193,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Collect
     <img src='/assets/img/look/collect-red.png' alt='flow'/>
   </div>
@@ -208,7 +212,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Store
     <img src='/assets/img/look/store-red.png' alt='flow'/>
   </div>
@@ -218,7 +222,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Digital Play
     <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
     <p class="work-single__footnote">After showing the kids the animation they started to dig for roots.</p>
@@ -254,7 +258,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Store
     <img src='/assets/img/look/store-red.png' alt='flow'/>
   </div>
@@ -264,7 +268,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Digital Play
     <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
   </div>
@@ -306,7 +310,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
   Store
       <img src='/assets/img/look/store-red.png' alt='flow'/>
     <p class="work-single__footnote">Each kid said that the leaves in storage were their favorite of the day.</p>
@@ -326,7 +330,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Scan
     <img src='/assets/img/look/scan-red.png' alt='flow'/>
   </div>
@@ -360,7 +364,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Collect
     <img src='/assets/img/look/collect-red.png' alt='flow'/>
   </div>
@@ -381,7 +385,7 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
-  <div class="work-single__left" >
+  <div class="work-single__left work-single__left-no-flex" >
     Digital Play
     <img src='/assets/img/look/digital-play-red.png' alt='flow'/>
   </div>

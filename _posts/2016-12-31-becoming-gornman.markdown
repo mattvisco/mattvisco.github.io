@@ -9,11 +9,14 @@ headerimg: /assets/img/gornman/gornman-header.gif
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>One day I was sitting in Prospect Park in New York with my sketch book and started drawing a creature of sorts. This creature was made out of squiggles. I have always been fascinated by squiggles for some reason, this fascination is probably what inspired the drawing.</p>
-<p>After completing the drawing I was staring at it and thought what if I could become this creature. The Gornman is a fictional character that friends and I conjured years ago and perhaps I had just drawn this fictional character. The next step was to become him.</p>
-<p>Becoming the Gornman is an openFrameworks application. The underlying physics behind the application is a hair simulation. The squiggles are drawn around the hair and follow the same motion as the underlying hair.</p>
-<p class='no-pad'> To try to become the gornman yourself <a href="http://faavi.weebly.com/" target="_blank">click here.</a> Unfortunately this project was poorly commented and the code is a bit messy, I apologize.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>One day I was sitting in Prospect Park in New York with my sketch book and started drawing a creature of sorts. This creature was made out of squiggles. I have always been fascinated by squiggles for some reason, this fascination is probably what inspired the drawing.</p>
+    <p>After completing the drawing I was staring at it and thought what if I could become this creature. The Gornman is a fictional character that friends and I conjured years ago and perhaps I had just drawn this fictional character. The next step was to become him.</p>
+    <p>Becoming the Gornman is an openFrameworks application. The underlying physics behind the application is a hair simulation. The squiggles are drawn around the hair and follow the same motion as the underlying hair.</p>
+    <p class='no-pad'> To try to become the gornman yourself <a href="http://faavi.weebly.com/" target="_blank">click here.</a> Unfortunately this project was poorly commented and the code is a bit messy, I apologize.</p>
+  </div>
 </div>
 
 <div class="work-single__container">

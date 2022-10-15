@@ -19,13 +19,15 @@ layout: default
             <div class="work__container-element{% for category in post.categories %} work__{{ category }}{% endfor %}">
                 <a class="work__element-wrapper" href="{{ post.url }}">
                     <img class="work__element-img" src="{{ post.image }}">
-                    <div class="work__element-title">{{ post.title }}</div>
-                    <div class="work__element-desc">
-                    {% for category in post.categories %}
-                        {{ category }}{% if forloop.index < forloop.length %} /
-                        {% else %},
-                        {% endif %}
-                    {% endfor %}{{ post.year }}
+                    <div class="work__element-text-wrapper">
+                        <div class="work__element-title">{{ post.title }}</div>
+                        <div class="work__element-desc">
+                            {% for category in post.categories %}
+                                {{ category }}{% if forloop.index < forloop.length %} /
+                                {% else %},
+                                {% endif %}
+                            {% endfor %}{{ post.year }}
+                        </div>
                     </div>
                 </a>
             </div>

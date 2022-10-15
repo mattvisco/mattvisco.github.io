@@ -10,10 +10,13 @@ thanks: [Zach Lieberman, Taeyoon Choi]
 jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js/header.js]
 ---
 
-<div class='work-single__text-holder'>
-<p>Every breath is a step in time, as we breathe our memories blur and present becomes the past. It is our breath that drives us to capture moments, our breath reminds us of this ever present motion that we attempt to fight by holding onto frames of time. It is also breath that can allow for deep reflection, by paying attention to our breath our memories can come back into focus — we can gain some control over time.</p>
-<p>39°N, -105°W attempts to use breath as a lens to explore the past. Each image in this piece is composed by averaging the images taken during a specific trip into the backcountry. These composites represent imagery more akin to memory — faint and ghostly representations of color, texture, & figure. As you watch these composites breath peels through them and reveals the images that make the composition. It is breath that allows for these moments to come back into focus as it was breath that directed the capture of them.</p>
-<p class='no-pad'><a href='https://github.com/mattvisco/39N-105W'>Download the code and try for yourself.</a></p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>Every breath is a step in time, as we breathe our memories blur and present becomes the past. It is our breath that drives us to capture moments, our breath reminds us of this ever present motion that we attempt to fight by holding onto frames of time. It is also breath that can allow for deep reflection, by paying attention to our breath our memories can come back into focus — we can gain some control over time.</p>
+    <p>39°N, -105°W attempts to use breath as a lens to explore the past. Each image in this piece is composed by averaging the images taken during a specific trip into the backcountry. These composites represent imagery more akin to memory — faint and ghostly representations of color, texture, & figure. As you watch these composites breath peels through them and reveals the images that make the composition. It is breath that allows for these moments to come back into focus as it was breath that directed the capture of them.</p>
+    <p class='no-pad'><a href='https://github.com/mattvisco/39N-105W'>Download the code and try for yourself.</a></p>
+  </div>
 </div>
 
 <div class="work-single__container">
@@ -104,12 +107,18 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 </div>
 
 <div class="work-single__container">
+  <div class="work-single__left" >
+  
+  </div>
   <div class="work-single__right" >
     <img src="/assets/img/39,-105/test2.png" alt="that good alt text" />
   </div>
 </div>
 
 <div class="work-single__container no-pad">
+  <div class="work-single__left" >
+  
+  </div>
   <div class="work-single__right" >
     <img src="/assets/img/39,-105/test3.png" alt="that good alt text" />
   </div>

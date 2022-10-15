@@ -12,10 +12,13 @@ jsarr: [assets/js/vendors/jquery-3.2.1.min.js, assets/js/variables.js, assets/js
 ---
 
 
-<div class='work-single__text-holder'>
-<p>As a response to the brief <span class='work-single__highlight'>make the invisible visible</span>, Pulse Trace is an exploration about revealing people’s heart rates using the tools of photography.</p>
-<p>Using a pulse rate sensor and an Arduino, the heart rate readings of team members were mapped to an LED strip. Depending on whether the values from the sensor were high or low, different LEDs on the strip lit up accordingly. To capture the change in heart rate over time, long exposure shots were taken as each person moved along a fixed path in a room.</p>
-<p class='no-pad'>Further exploration of this technique included changing the speed of movement across the frame, the colours emitted by the LED and the camera angle. During this process, some interesting shadows that projected onto the ceiling were captured. This led to another series of experiments where shadows of a laser-cut heart were made to move and pulsate to one’s own heartbeat.</p>
+<div class="work-single__container work-single__no-reverse">
+  {% include project-desc.html %}
+  <div class='work-single__text-holder work-single__header-text'>
+    <p>As a response to the brief <span class='work-single__highlight'>make the invisible visible</span>, Pulse Trace is an exploration about revealing people’s heart rates using the tools of photography.</p>
+    <p>Using a pulse rate sensor and an Arduino, the heart rate readings of team members were mapped to an LED strip. Depending on whether the values from the sensor were high or low, different LEDs on the strip lit up accordingly. To capture the change in heart rate over time, long exposure shots were taken as each person moved along a fixed path in a room.</p>
+    <p class='no-pad'>Further exploration of this technique included changing the speed of movement across the frame, the colours emitted by the LED and the camera angle. During this process, some interesting shadows that projected onto the ceiling were captured. This led to another series of experiments where shadows of a laser-cut heart were made to move and pulsate to one’s own heartbeat.</p>
+  </div>
 </div>
 
 <div class="work-single__container">

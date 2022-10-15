@@ -15,6 +15,12 @@
 }
 
 @font-face {
+  font-family: "MaisonNeue-book";
+  src: url("/assets/fonts/MaisonNeue/MaisonNeue-Bold.ttf") format('ttf');
+  font-weight: bold;
+}
+
+@font-face {
   font-family: "MaisonNeue-light";
   src: url("/assets/fonts/MaisonNeue/maisonneue-light-webfont.woff2") format('woff2'),
   url('/assets/fonts/MaisonNeue/maisonneue-light-webfont.woff') format('woff');
